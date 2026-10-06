@@ -47,18 +47,17 @@ It is intended for students taking a Statistical Methods course, as well as anyo
 
 ## Repository Structure
 
-> Adjust this to match your repository.
 
 ```
 statistical-methods/
 ├── README.md
 ├── LICENSE
-├── 01-descriptive-statistics/
+├── 01-Probability Concept
 │   ├── notes.pdf
-│   ├── exercises.pdf
-│   └── code/
-├── 02-probability-random-variables/
-├── 03-probability-distributions/
+│   |── exercises.pdf
+│   
+├── 02-Random Variables/
+├── 03-Discrete Distributioons/
 ├── ...
 ├── data/            # datasets used in examples and exercises
 └── assets/          # images and logos
