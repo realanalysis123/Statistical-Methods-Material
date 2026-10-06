@@ -37,15 +37,13 @@ It is intended for students taking a Statistical Methods course, as well as anyo
 
 | No | Topic | Description |
 |----|-------|-------------|
-| 1 | Descriptive Statistics | Measures of center and spread, data presentation |
-| 2 | Probability and Random Variables | Probability concepts, expected value, variance |
-| 3 | Probability Distributions | Binomial, Poisson, Normal, and other distributions |
-| 4 | Sampling Distributions | Central Limit Theorem, $t$, $\chi^2$, and $F$ distributions |
-| 5 | Parameter Estimation | Point estimates and confidence intervals |
-| 6 | Hypothesis Testing | One- and two-sample tests, Type I and Type II errors |
-| 7 | Analysis of Variance (ANOVA) | One-way designs and multiple comparisons |
-| 8 | Regression and Correlation | Simple linear regression and correlation coefficients |
-| 9 | Nonparametric Statistics | Sign test, Wilcoxon, Kruskal-Wallis, and related tests |
+| 1 | Probability|  Probability concepts|
+| 2 |  Random Variables | expected value &  variance |
+| 3 | Discrete Distributions | Binomial, Poisson, and  Bernoulli |
+| 4 |Continuous Distributions | Uniform  & Normal Distribution  |
+| 5 | Sampling Distribution| Mean & Proportion Distributions  |
+| 6 |  Parameter Estimation |Point estimates and confidence intervals |
+| 7 | Hypothesis Testing| One-way designs and multiple comparisons |
 
 ## Repository Structure
 
