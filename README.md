@@ -12,9 +12,6 @@ A collection of notes, worked examples, and practice problems for the **Statisti
 - [About](#about)
 - [Topics Covered](#topics-covered)
 - [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 
