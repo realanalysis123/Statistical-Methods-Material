@@ -3,7 +3,6 @@
 A collection of notes, worked examples, and practice problems for the **Statistical Methods** course. This repository is meant to be a clean, easy-to-access study resource that can grow over time.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
