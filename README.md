@@ -39,7 +39,8 @@ It is intended for students taking a Statistical Methods course, as well as anyo
 | 4 |Continuous Distributions | Uniform  & Normal Distribution  |
 | 5 | Sampling Distribution| Mean & Proportion Distributions  |
 | 6 |  Parameter Estimation |Point estimates and confidence intervals |
-| 7 | Hypothesis Testing| One-way designs and multiple comparisons |
+| 7 | Hypothesis Testing| Proportions and Mean Test|
+
 
 ## Repository Structure
 
