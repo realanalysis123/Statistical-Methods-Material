@@ -63,51 +63,6 @@ statistical-methods/
 └── assets/          # images and logos
 ```
 
-## Getting Started
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/realanalysis123/statistical-methods.git
-cd statistical-methods
-```
-
-**2. Open the materials**
-
-- **PDF** files can be opened or downloaded directly from each topic folder.
-- **`.tex`** files (if included) can be compiled with LaTeX, for example:
-
-  ```bash
-  pdflatex notes.tex
-  ```
-
-  Or upload the folder to [Overleaf](https://www.overleaf.com).
-
-**3. Run the practice code (if included)**
-
-- **R** code: open the `.R` or `.Rmd` files in RStudio.
-- **Python** code: install the required packages with
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-## Contributing
-
-Feedback is very welcome, whether it is a typo fix, a better explanation, or additional problems.
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b fix-topic-x`.
-3. Commit your changes: `git commit -m "Fix formula in topic X"`.
-4. Push to the branch: `git push origin fix-topic-x`.
-5. Open a Pull Request.
-
-If you find a mistake but do not have time to fix it, please open an **Issue**.
-
-## License
-
-The contents of this repository are released under the **MIT License** (see the `LICENSE` file). You are free to use and modify the material for learning purposes with attribution. Change the license if you prefer, for example CC BY 4.0 for non-code material.
-
 ## Author
 
 **Kristian Aga Yudistira Laru**
