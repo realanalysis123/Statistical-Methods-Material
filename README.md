@@ -23,7 +23,6 @@ This repository contains Statistical Methods material organized topic by topic. 
 - a summary of key concepts and formulas,
 - worked examples with solutions,
 - practice problems,
-- (optional) R/Python code for hands-on practice and visualization.
 
 It is intended for students taking a Statistical Methods course, as well as anyone who wants to review the fundamentals of statistical inference.
 
