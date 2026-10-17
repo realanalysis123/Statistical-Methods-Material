@@ -49,9 +49,6 @@ statistical-methods/
 ├── README.md
 ├── LICENSE
 ├── 01-Probability Concept
-│   ├── notes.pdf
-│   |── exercises.pdf
-│   
 ├── 02-Random Variables/
 ├── 03-Discrete Distributioons/
 ├── ...
