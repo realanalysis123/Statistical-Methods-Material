@@ -55,8 +55,6 @@ statistical-methods/
 ├── 02-Random Variables/
 ├── 03-Discrete Distributioons/
 ├── ...
-├── data/            # datasets used in examples and exercises
-└── assets/          # images and logos
 ```
 
 ## Author
